@@ -5,6 +5,8 @@ public class Main {
         System.out.println("jamen hej");
 
         System.out.println("From the other siiiiiiide!");
+
+        System.out.println("There must have been there a thousand tiiiimes");
         System.out.println("du ser bare godt ud i dag ;)");
         System.out.println("ps sej hat");
 
