@@ -7,6 +7,8 @@ public class Main {
         System.out.println("From the other siiiiiiide!");
         System.out.println("du ser bare godt ud i dag ;)");
         System.out.println("ps sej hat");
+
+
     }
 
 }
