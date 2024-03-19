@@ -11,6 +11,8 @@ public class Main {
         System.out.println("ps sej hat");
 
         System.out.println("Java kode på høj plan XP ");
+        System.out.println("Java kode på høj plan XP ");
+        System.out.println("Java kode på høj plan XP ");
 
     }
 
