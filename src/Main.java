@@ -4,6 +4,8 @@ public class Main {
         System.out.println("Halllooo");
         System.out.println("jamen halloooooooo");
 
+        System.out.println("From the other siiiiiiide!");
+
 
     }
 }
